@@ -1,12 +1,13 @@
 ### <h1>Hello there👋</h1>
     
-     * Im am Didrik Larnholm, front end and mobile development student. Currently Im pursuing my bachelor's degree.
+     * Im Didrik Larnholm, front end and mobile development student. Currently Im pursuing my bachelor's degree. 🎓
 
 
 
 
 ### 🌱 I’m currently learning: Swift, Vue.js and Ionic.
-### -🛠 Technologies I have used: <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+### -🛠 Technologies I have used/currently using: 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">,
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">,
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
