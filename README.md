@@ -1,6 +1,6 @@
 ### <h1>Hello there👋</h1>
     
-     * Im Didrik Larnholm, front end and mobile development student. Currently Im pursuing my bachelor's degree. 🎓
+     * Im Didrik Larnholm, front end and mobile developer.
 
 
 
