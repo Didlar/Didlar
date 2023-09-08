@@ -1,6 +1,6 @@
 ### <h1>Hello there👋</h1>
     
-     * Im Didrik Larnholm, front end and mobile developer.
+     * Im Didrik Larnholm, tester, front end and mobile developer.
 
 
 
